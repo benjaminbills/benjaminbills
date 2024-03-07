@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://benjaminoba.com/](https://benjaminoba.com/)
 
-- 💬 Ask me about **React js, Javascript, Python, Django**
+- 💬 Ask me about **React js, Node js, Typescript, Javascript, Python, Django**
 
 - 📫 How to reach me **obafemibenjamins@gmail.com**
 
