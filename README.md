@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjaminbills&label=Profile%20views&color=0e75b6&style=flat" alt="benjaminbills" /> </p>
 
-- 🌱 I’m currently learning **openmrs,AWS,GCP**
+- 🌱 I’m currently learning **AWS,GCP**
 
 - 👨‍💻 All of my projects are available at [https://benjaminoba.com/](https://benjaminoba.com/)
 
